@@ -1,0 +1,31 @@
+h2 {
+    color: blueviolet;
+}
+
+p {
+    color: grey;
+}
+
+a {
+    color: purple;
+}
+
+.block2 h2 {
+    color: hotpink;
+}
+
+.block1 #top-p {
+    color: green;
+}
+
+.block1, .block3 {
+    background-color: lightyellow;
+}
+
+.block2 a, .block3 a {
+    color: red;
+}
+
+.end.stretch{
+    letter-spacing: 5px;
+}
